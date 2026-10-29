@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.07bf9fd2.css",
-    "main.js": "/static/js/main.98a09840.js",
+    "main.css": "/static/css/main.1330bef3.css",
+    "main.js": "/static/js/main.48bec764.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/Careerwave.mp4": "/static/media/Careerwave.afdddfbc0b1d8893f84e.mp4",
     "static/media/PawsPortal.png": "/static/media/PawsPortal.06328d4a88aa57fc003e.png",
@@ -17,12 +17,12 @@
     "static/media/logo.png": "/static/media/logo.a45a6438c5bdf9b3f793.png",
     "static/media/Dilum-Induwara.pdf": "/static/media/Dilum-Induwara.a740bec2218218a03452.pdf",
     "index.html": "/index.html",
-    "main.07bf9fd2.css.map": "/static/css/main.07bf9fd2.css.map",
-    "main.98a09840.js.map": "/static/js/main.98a09840.js.map",
+    "main.1330bef3.css.map": "/static/css/main.1330bef3.css.map",
+    "main.48bec764.js.map": "/static/js/main.48bec764.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07bf9fd2.css",
-    "static/js/main.98a09840.js"
+    "static/css/main.1330bef3.css",
+    "static/js/main.48bec764.js"
   ]
 }
