@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f22a178.css",
-    "main.js": "/static/js/main.71e63dc4.js",
+    "main.css": "/static/css/main.07bf9fd2.css",
+    "main.js": "/static/js/main.b71510c1.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/Careerwave.mp4": "/static/media/Careerwave.afdddfbc0b1d8893f84e.mp4",
     "static/media/PawsPortal.png": "/static/media/PawsPortal.06328d4a88aa57fc003e.png",
@@ -17,12 +17,12 @@
     "static/media/about.jpg": "/static/media/about.2980bcbe5d8c7053b586.jpg",
     "static/media/logo.png": "/static/media/logo.a45a6438c5bdf9b3f793.png",
     "index.html": "/index.html",
-    "main.6f22a178.css.map": "/static/css/main.6f22a178.css.map",
-    "main.71e63dc4.js.map": "/static/js/main.71e63dc4.js.map",
+    "main.07bf9fd2.css.map": "/static/css/main.07bf9fd2.css.map",
+    "main.b71510c1.js.map": "/static/js/main.b71510c1.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f22a178.css",
-    "static/js/main.71e63dc4.js"
+    "static/css/main.07bf9fd2.css",
+    "static/js/main.b71510c1.js"
   ]
 }
