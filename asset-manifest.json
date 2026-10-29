@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f22a178.css",
+    "main.js": "/static/js/main.71e63dc4.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Careerwave.mp4": "/static/media/Careerwave.afdddfbc0b1d8893f84e.mp4",
+    "static/media/PawsPortal.png": "/static/media/PawsPortal.06328d4a88aa57fc003e.png",
+    "static/media/ClassApp.png": "/static/media/ClassApp.33abb7a8fb40d786d05e.png",
+    "static/media/EchoLynk.png": "/static/media/EchoLynk.d54f9ca6246ccc575e21.png",
+    "static/media/CareerWawe.png": "/static/media/CareerWawe.fa12bd15050ae34302c1.png",
+    "static/media/Amoral.png": "/static/media/Amoral.edab7ea838c4225d61c6.png",
+    "static/media/JobSearcher.png": "/static/media/JobSearcher.c087b73b5950673c1fc1.png",
+    "static/media/SMS.png": "/static/media/SMS.4ec657cc1f7a45ca75e5.png",
+    "static/media/dilum.jpg": "/static/media/dilum.c7cbfa1c105503367257.jpg",
+    "static/media/Dilum-Induwara.pdf": "/static/media/Dilum-Induwara.2f7d6900619f11681665.pdf",
+    "static/media/publicTransport.png": "/static/media/publicTransport.4bc0e6280daa2dbeb2e8.png",
+    "static/media/about.jpg": "/static/media/about.2980bcbe5d8c7053b586.jpg",
+    "static/media/logo.png": "/static/media/logo.a45a6438c5bdf9b3f793.png",
+    "index.html": "/index.html",
+    "main.6f22a178.css.map": "/static/css/main.6f22a178.css.map",
+    "main.71e63dc4.js.map": "/static/js/main.71e63dc4.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f22a178.css",
+    "static/js/main.71e63dc4.js"
+  ]
+}
